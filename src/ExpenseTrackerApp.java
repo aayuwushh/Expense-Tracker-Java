@@ -142,3 +142,4 @@ public class ExpenseTrackerApp extends JFrame {
         new ExpenseTrackerApp();
     }
 }
+// End of application
