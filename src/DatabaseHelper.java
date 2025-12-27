@@ -5,7 +5,7 @@ public class DatabaseHelper {
     // Database Config - CHANGE PASSWORD HERE
     private static final String URL = "jdbc:mysql://localhost:3306/expense_tracker_db";
     private static final String USER = "root"; 
-    private static final String PASS = "12345678"; // Apna MySQL Password yaha daalo
+    private static final String PASS = "12345678"; // Enter MySQL Password here
 
     // Connection Method
     public static Connection connect() {
